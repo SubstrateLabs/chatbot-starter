@@ -4,6 +4,8 @@ This is a simple chatbot to demonstrate a streaming UI with responses generated 
 
 It's food/cooking themed.
 
+![Screenshot](/screenshot.png?raw=true)
+
 
 ## Running the example
 
