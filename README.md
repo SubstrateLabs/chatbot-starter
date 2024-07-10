@@ -2,7 +2,7 @@
 
 This is a simple chatbot to demonstrate a streaming UI with responses generated from Substrate LLM nodes.
 
-It's food/cooking themed.
+It's food/cooking themed and can help you come up with recipes and cooking techniques.
 
 ![Screenshot](/screenshot.png?raw=true)
 
