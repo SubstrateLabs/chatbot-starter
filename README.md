@@ -1,4 +1,4 @@
-# Simple Chatbot
+# Sample Chatbot
 
 This is a simple chatbot to demonstrate a streaming UI with responses generated from Substrate LLM nodes.
 
