@@ -1,6 +1,6 @@
 # Chatbot Starter Template
 
-A super minimal chatbot starter template in NextJS, using [Substrate](https://substrate.run). Built to be as concise as possible with few dependencies, so it's easy to fork.
+A super minimal chatbot starter template using modern [NextJS](https://nextjs.org/) and [Substrate](https://substrate.run). Built to be as concise as possible with few dependencies, so it's easy to fork.
 - Renders streaming UI
 - Handles chat history
 - Modern, polished React UI with minimal dependencies
