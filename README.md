@@ -5,7 +5,9 @@ A super minimal chatbot starter template in NextJS, using [Substrate](https://su
 - Handles chat history
 - Modern, polished React UI with minimal dependencies
 
-Right now it's food/cooking themed and can help you come up with recipes and cooking techniques, but it's easy to extend.
+We're planning to extend this a bunch with things like speech-to-text input, text-to-speech output, memory, and more. File an issue if there are features you want to see us build! 
+
+Currently the chatbot is food/cooking themed, but it's easy to extend.
 
 ![Screenshot](/screenshot.gif)
 
