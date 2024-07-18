@@ -7,7 +7,7 @@ A super minimal chatbot starter template in NextJS, using [Substrate](https://su
 
 Right now it's food/cooking themed and can help you come up with recipes and cooking techniques, but it's easy to extend.
 
-![Screenshot](/screenshot.png?raw=true)
+![Screenshot](/screenshot.gif)
 
 
 ## Running the example
