@@ -1,8 +1,11 @@
-# Sample Chatbot
+# Chatbot Starter Template
 
-This is a simple chatbot to demonstrate a streaming UI with responses generated from Substrate LLM nodes.
+A super minimal chatbot starter template in NextJS, using [Substrate](https://substrate.run). Built to be as concise as possible with few dependencies, so it's easy to fork.
+- Renders streaming UI
+- Handles chat history
+- Modern, polished React UI with minimal dependencies
 
-It's food/cooking themed and can help you come up with recipes and cooking techniques.
+Right now it's food/cooking themed and can help you come up with recipes and cooking techniques, but it's easy to extend.
 
 ![Screenshot](/screenshot.png?raw=true)
 
